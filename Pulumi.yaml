@@ -1,0 +1,3 @@
+name: setup-iam-to-aws
+runtime: go
+description: A minimal AWS Go Pulumi program
